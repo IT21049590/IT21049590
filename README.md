@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hiruna lalanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiruna lalanga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hiruna-lalanga-08a086259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiruna-lalanga-08a086259/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hiru lalanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hiru lalanga" height="30" width="40" /></a>
 </p>
 
