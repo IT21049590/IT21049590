@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiruna Lalanga</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">An Undergraduate from SLIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21049590&label=Profile%20views&color=0e75b6&style=flat" alt="it21049590" /> </p>
 
